@@ -1,0 +1,9 @@
+/node_modules
+/dist
+
+#haxe
+/dunp
+
+#haxe-loader
+index.js.stats.html
+index.js.stats.json

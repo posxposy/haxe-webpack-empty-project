@@ -1,0 +1,8 @@
+-L hxnodejs
+-L haxe-loader
+
+-D analyzer-optimize
+
+-p hx
+-m Index
+-js index.js
