@@ -1,11 +1,8 @@
-##### VSCdoe empty project for Haxe + Webpack.
+#### VSCode empty project for Haxe + Webpack.
 
 ---
 
-Haxe
-Webpack (haxe-loader)
-Sass (minifier + autoprefixer)
-Static files setup
+Haxe + Webpack (haxe-loader) + Sass (minifier + autoprefixer) + processing static files
 
 ---
 
