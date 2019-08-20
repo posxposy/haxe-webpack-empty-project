@@ -1,4 +1,4 @@
-####VSCdoe empty project for Haxe + Webpack.
+##### VSCdoe empty project for Haxe + Webpack.
 
 ---
 
